@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>Site Simples</title>
-    <?php require_once("css.php"); ?>
+    <?php require_once("estilo.css"); ?>
 </head>
 
 <body>
