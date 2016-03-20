@@ -16,7 +16,7 @@
         min-height: 100%;
         height: auto !important;
         height: 100%;
-        /* Negative indent footer by it's height */
+        /* Negative indent footer by it's eight */
         margin: 0 auto -60px;
     }
 

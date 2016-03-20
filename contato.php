@@ -1,20 +1,9 @@
-<html>
-<head>
-    <title>Site Simples</title>
-    <?php require_once("estilo.css"); ?>
-</head>
-
-<body>
-
-<div id="wrap">
-    <?php require_once("menu.php"); ?>
-    <!-- Begin page content -->
     <div class="container">
         <div class="page-header">
             <h1>Contato</h1>
         </div>
 
-            <form class="form-horizontal" action="contato_resultado.php" method="POST">
+            <form class="form-horizontal" action="/contato_resultado" method="POST">
                 <fieldset>
 
                     <!-- Text input-->
@@ -69,12 +58,3 @@
 
 
     </div>
-
-
-    <div id="push"></div>
-</div>
-
-<?php require_once("footer.php"); ?>
-
-</body>
-</html>
